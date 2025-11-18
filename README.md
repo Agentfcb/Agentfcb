@@ -3,7 +3,8 @@
 ## Здесь я выкладываю свои учебные проекты и свои личные разработки
 ## Для связи тг - @cypherUwU
 ## Спасибо за внимание 
-##  <img src="[https://web.telegram.org/ee13fa7f-2dc8-4dee-b98d-8dab3996b63a](https://playerok.fra1.digitaloceanspaces.com/images/1eed3096-d31c-6a10-1e09-c9be37831300.jpg?timestamp=1760185756)" width="300"/>
+##  <img width="735" height="515" alt="image" src="https://github.com/user-attachments/assets/8a25656b-d6c2-4602-9ad5-239dd6200059" />
+
 
 
 

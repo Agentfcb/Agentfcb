@@ -1,4 +1,6 @@
-## Hi there 👋
+## 💿 Я начинающий разработчик веб сайтов 💿
+## В моем арсенале имеются такие языки как <img width="480" height="126" alt="image" src="https://github.com/user-attachments/assets/2dd20531-4a5f-4d47-8cf2-3b4fccfa11fa" />
+
 
 <!--
 **Agentfcb/Agentfcb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

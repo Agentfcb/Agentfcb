@@ -2,7 +2,7 @@
 ## В моем арсенале имеются такие языки как Python, html, golang, java script.
 ## Здесь я выкладываю свои учебные проекты и свои личные разработки
 ## Для связи тг - @cypherUwU
-## <img width="200" height="250" alt="image" src="https://github.com/user-attachments/assets/99d7db36-d5de-473a-9d72-677fd0f0d15f" />
+## <img width="230" height="280" alt="image" src="https://github.com/user-attachments/assets/99d7db36-d5de-473a-9d72-677fd0f0d15f" />
 
 
 
